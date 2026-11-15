@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/beiboX5ProRepository/-/releases](https://gitlab.com/xusu616/beiboX5ProRepository/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/beiboX5ProRepository)）
+
 # beiboX5ProRepository
 贝铂X5pro(or VORMOR-X5pro)
 Try to collect all related img such img or other things,   may be not tidy up;   
